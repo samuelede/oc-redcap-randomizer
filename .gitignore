@@ -1,0 +1,23 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/*
+*.log
+
+# Composer
+vendor/
+composer.lock
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# REDCap upload artifacts
+*.zip
+
+# PHPUnit
+phpunit.xml
+coverage/

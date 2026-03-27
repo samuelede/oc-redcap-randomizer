@@ -1,8 +1,8 @@
-# OC to REDCap Randomizer Module
+# OpenClinica 4 to REDCap Randomizer Module
 
 ![Randomizer Logo](docs/randomizer-logo.svg)
 
-_Automates event‑triggered data sync, randomization, and allocation between OpenClinica and REDCap._
+_Automates event‑triggered data sync, randomization, and allocation between OpenClinica 4 and REDCap._
 
 ---
 

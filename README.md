@@ -1,4 +1,26 @@
 # OC to REDCap Randomizer Module
+
+![Randomizer Logo](docs/randomizer-logo.svg)
+
 _Automates event‑triggered data sync, randomization, and allocation between OpenClinica and REDCap._
 
-This module listens for completed events in OpenClinica 4, retrieves configured field data, inserts the data into a specified REDCap project, performs automated randomization, and returns the allocated value to OpenClinica via its API. Designed for clinical trials requiring reliable, reproducible, and auditable randomization workflows.
+---
+
+## ✨ Features
+- Pulls configured OpenClinica fields after event completion
+- Automatically inserts data into REDCap
+- Performs REDCap randomization
+- Pushes allocated value back into OpenClinica via API
+- Full audit logging
+- Institution-friendly configuration
+- Open‑source and extensible
+
+---
+
+## 📦 Installation
+
+### 1. Download the Module
+Clone the repository or download a release ZIP.
+
+### 2. Install into REDCap
+Place the module directory inside:
